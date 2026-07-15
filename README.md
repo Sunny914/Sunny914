@@ -45,7 +45,7 @@ and intelligent automation solutions.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 
-### ⚙️ Data Engineering & ETL
+### ⚙️ Data Engineering & Analytics Engineering
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
@@ -57,9 +57,18 @@ and intelligent automation solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
-### 🤖 Future Focus
+### 💻 Software & Infrastructure Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+
+### 🤖 Exploring Next
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Gen AI](https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge)
 
 ---
