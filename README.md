@@ -12,7 +12,7 @@ and intelligent automation solutions.
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Chemical Engineering from **NIT Agartala** (CGPA: **8.09**)
+- 🎓 B.Tech from **NIT Agartala** (CGPA: **8.09**)
 - 📊 Currently focused on becoming a **Data Analyst**
 - 📈 Building expertise in:
   - Product Analytics
