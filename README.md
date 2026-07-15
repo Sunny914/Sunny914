@@ -110,13 +110,17 @@ Prometheus exporter for collecting and exposing virtualization and VM infrastruc
 
 ---
 
-## 🎯 Long-Term Focus
+## 🎯 Long-Term Vision
+
+To build intelligent systems that combine analytics, machine learning, generative AI, and automation to solve real-world business problems at scale.
+
+### Areas of Interest
 
 - Data Science and Predictive Analytics
 - Generative AI Applications
 - AI Agents and Autonomous Workflows
 - Intelligent Automation Systems
-
+  
 ---
 
 ## 📫 Connect With Me
