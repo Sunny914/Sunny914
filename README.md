@@ -40,22 +40,30 @@ and intelligent automation solutions.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
 
-### 🐍 Data Science & Programming
+### 🐍 Data Analysis & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 
-### ⚙️ Data Engineering
+### ⚙️ Data Engineering & ETL
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0A66C2?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
 ### ☁️ Cloud & Platforms
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+
+### 🤖 Future Focus
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Gen AI](https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge)
 
 ---
 
@@ -75,17 +83,12 @@ Business intelligence solution focused on financial reporting, KPI monitoring, a
 
 ---
 
-### 🏗 Streamlytix Analytics Engineering Platform
-Modern analytics engineering project implementing medallion architecture and transformation workflows.
+### 📊 Prometheus Libvirt Exporter
+Prometheus exporter for collecting and exposing virtualization and VM infrastructure metrics and Topology discovery from Libvirt environments for real-time monitoring and observability.
 
-**Tech:** dbt • SQL • DuckDB • Python
+**Tech:** Go • Prometheus • Libvirt • Linux • Observability
 
----
 
-### ☁️ NexusFleet GCP ETL Pipeline
-Cloud-native ETL pipeline processing large-scale ride-sharing datasets using modern data engineering tools.
-
-**Tech:** GCP • BigQuery • Python • Mage
 
 ---
 
@@ -94,29 +97,8 @@ Cloud-native ETL pipeline processing large-scale ride-sharing datasets using mod
 ### Infrastructure Software Engineer Intern
 **Asama.ai**
 
-- Worked on infrastructure tooling and backend systems.
-- Exposure to production engineering workflows and cloud environments.
-
-### Industrial Intern
-**Hindustan Urvarak & Rasayan Limited (HURL)**
-
-- Worked on Green Ammonia and sustainable fertilizer production processes.
-
-### Industrial Intern
-**Indian Oil Corporation Limited (IOCL)**
-
-- Exposure to refinery operations and industrial process optimization.
-
----
-
-## 🎯 Career Roadmap
-
-```text
-2026 → Data Analyst
-2027 → Data Scientist
-2028 → Gen AI & Automation Engineer
-Long Term → AI Systems Builder
-```
+- Developed and enhanced infrastructure tooling, exporter logic, and backend systems for infrastructure observability and virtualization environments.
+- Worked with production engineering workflows involving Linux systems, virtualization, monitoring, and infrastructure operations.
 
 ---
 
@@ -133,14 +115,10 @@ Long Term → AI Systems Builder
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-- Resume: YOUR_RESUME_LINK
+- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sunnykumar914/)
+- Email: sunnyspace808@gmail.com
+- Resume: https://drive.google.com/file/d/1FZE7Ng0VZj9Ma6CbWDT9ATZfTAuuQJGm/view?usp=drivesdk
 - Portfolio: COMING SOON
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building projects that sit at the intersection of
-analytics, automation, and intelligent systems.
