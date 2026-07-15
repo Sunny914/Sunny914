@@ -14,21 +14,18 @@ and intelligent automation solutions.
 
 - 🎓 B.Tech from **NIT Agartala** (CGPA: **8.09**)
 - 📊 Currently focused on becoming a **Data Analyst** with strong foundations in **Analytics Engineering**.
+  
 - 📈 Building expertise in:
   - Product Analytics
   - Business Intelligence
   - Analytics Engineering
   - Data Modeling
-- 🤖 Long-term focus:
-  - Data Science
-  - Gen AI
-  - AI Agents
-  - Intelligent Automation
-- 🌱 Currently learning:
-  - Machine Learning
-  - Advanced Statistics
-  - LLM Applications
-  - Workflow Automation
+    
+🌱 Currently expanding my expertise in:
+- Machine Learning & Predictive Analytics
+- Statistical Modeling & Experimentation
+- LLM Applications & AI Agents
+- Workflow Automation & Intelligent Systems
 
 ---
 
@@ -102,14 +99,23 @@ Prometheus exporter for collecting and exposing virtualization and VM infrastruc
 
 ---
 
-## 📚 Current Learning Focus
+## 📚 Current Learning Focus Order
 
-- Advanced SQL
-- Machine Learning
-- Statistical Modeling
-- LLM Applications
-- AI Agents
-- Workflow Automation
+- Advanced SQL and Data Modeling
+- Statistical Modeling and Experimentation
+- Analytics Engineering Principles
+- Machine Learning Fundamentals
+- LLM Applications and AI Agents
+- Intelligent Workflow Automation
+
+---
+
+## 🎯 Long-Term Focus
+
+- Data Science and Predictive Analytics
+- Generative AI Applications
+- AI Agents and Autonomous Workflows
+- Intelligent Automation Systems
 
 ---
 
