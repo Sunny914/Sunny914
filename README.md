@@ -134,7 +134,7 @@ To build intelligent systems that combine analytics, machine learning, generativ
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/sunnykumar914/)
+- LinkedIn: https://www.linkedin.com/in/sunnykumar914/
 - Email: sunnyspace808@gmail.com
 - Resume: https://drive.google.com/file/d/1FZE7Ng0VZj9Ma6CbWDT9ATZfTAuuQJGm/view?usp=drivesdk
 - Portfolio: COMING SOON
