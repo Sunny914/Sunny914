@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sunny</h1>
 
 <h3 align="center">AI Engineer · LLM Engineering · Applied AI · Analytics Engineering</h3>
 
