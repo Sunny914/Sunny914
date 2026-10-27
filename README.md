@@ -206,7 +206,7 @@ I'm especially interested in building reliable AI systems that integrate with ex
 * 💻 **GitHub:** https://github.com/Sunny914
 * 🔗 **LinkedIn:** https://linkedin.com/in/sunnykumar914
 * 📧 **Email:** [sunnyspace808@gmail.com](mailto:sunnyspace808@gmail.com)
-* 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1FZE7Ng0VZj9Ma6CbWDT9ATZfTAuuQJGm/view?usp=drivesdk)
+* 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1mMwdWxwh93U7xEpRUfNaFkq_uGtZvh24/view?usp=drivesdk)
 
 ---
 
