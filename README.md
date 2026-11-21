@@ -251,7 +251,7 @@ B.Tech in Chemical Engineering · CGPA: **8.09/10**
   <a href="https://github.com/Sunny914">GitHub</a> •
   <a href="https://linkedin.com/in/sunnykumar914">LinkedIn</a> •
   <a href="mailto:sunnyspace808@gmail.com">Email</a> •
-  <a href="[https://drive.google.com/file/d/1mMwdWxwh93U7xEpRUfNaFkq_uGtZvh24/view?usp=drivesdk](https://drive.google.com/file/d/1GhPtsyLmRO_jbtqndxNMJc8OQr9ycQ0m/view?usp=drivesdk)">Resume</a>
+  <a href="https://drive.google.com/file/d/1GhPtsyLmRO_jbtqndxNMJc8OQr9ycQ0m/view?usp=drivesdk">Resume</a>
 </p>
 
 <p align="center">
