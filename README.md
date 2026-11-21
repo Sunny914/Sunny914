@@ -182,7 +182,7 @@ Building a document intelligence application that combines retrieval, agent orch
 
 **Stack:** Python · FastAPI · LangGraph · Qdrant · Jina AI · PostgreSQL · Redis · RAGAS · NeMo Guardrails · LangSmith · Logfire · Prometheus · AWS · Docker
 
-🔗 [Repository](https://github.com/Sunny914/Perceptra) · [Portfolio](https://sunny-ai-portfolio-beta.vercel.app/)
+🔗 [Repository](https://github.com/Sunny914/Perceptra) · [Portfolio](https://sunnyspacez.vercel.app/)
 
 ### 2. ProductIQ — AI Fashion Search & Recommendation Engine
 
