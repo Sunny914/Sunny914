@@ -1,86 +1,191 @@
-<h1 align="center">Hi, I'm Sunny 👋</h1>
-<h3 align="center">AI/ML Engineer · AI Product Engineer</h3><p align="center">
-  I build practical AI systems — from machine learning experiments and intelligent retrieval<br>
-  to reliable APIs, evaluation workflows, and user-facing products.
+<h1 align="center">Hi 👋, I'm Sunny</h1><h3 align="center">AI/ML Engineer &nbsp;·&nbsp; AI Product Engineer</h3><p align="center">
+  Building intelligent systems — from model experiments and retrieval pipelines to reliable APIs and useful AI products.
 </p><p align="center">
-  <a href="https://sunnyspacez.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/Sunny914">GitHub</a> ·
-  <a href="https://linkedin.com/in/sunnykumar914">LinkedIn</a> ·
-  <a href="mailto:sunnyspace808@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/file/d/1GhPtsyLmRO_jbtqndxNMJc8OQr9ycQ0m/view?usp=drivesdk">Resume</a>
-</p>About Me
-I'm a B.Tech graduate from NIT Agartala and a former Software Engineering Intern at Asama AI. My work sits at the intersection of machine learning, LLM engineering, backend systems, and product development.
+  <img src="https://img.shields.io/badge/Applied_AI-4F46E5?style=for-the-badge" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0D9488?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/LLM_Engineering-7C3AED?style=for-the-badge" alt="LLM Engineering" />
+  <img src="https://img.shields.io/badge/AI_Product_Development-2563EB?style=for-the-badge" alt="AI Product Development" />
+</p><p align="center">
+  <a href="https://sunnyspacez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sunnykumar914"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sunnyspace808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1GhPtsyLmRO_jbtqndxNMJc8OQr9ycQ0m/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-475569?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>👨‍💻 About Me
+I'm a B.Tech graduate from NIT Agartala (CGPA: 8.09/10) and a former Software Engineering Intern at Asama AI. I work across machine learning, LLM applications, retrieval systems, backend engineering, and product development.
 
-I enjoy taking an AI idea beyond a notebook: defining the problem, experimenting with models or retrieval strategies, connecting them to APIs and interfaces, and evaluating whether the result is useful and reliable.
+My focus is to build AI systems end to end: define the problem, develop a baseline, experiment with models or retrieval methods, evaluate outcomes, and connect the solution to a useful interface.
+- 🧠 AI/ML engineering: PyTorch, neural networks, graph learning, NLP, model evaluation, and fine-tuning experiments.
+- 🤖 Applied AI: LLM APIs, RAG, embeddings, hybrid retrieval, reranking, agent workflows, and evaluation.
+- ⚙️ Product engineering: Python, FastAPI, PostgreSQL, Docker, user-facing interfaces, testing, and observability.
+- 📊 Product thinking: Translate user problems into measurable features, experiments, and iteration cycles.
+🧰 Technical Skills
+<p align="center"><i>Models + data + systems + product delivery</i></p>📊 Machine Learning & Deep Learning
 
-What I focus on:
-- AI/ML engineering: Model training and evaluation, PyTorch, graph learning, NLP, embeddings, and fine-tuning experiments.
-- Applied AI systems: RAG, hybrid search, reranking, agent workflows, guardrails, and observability.
-- AI product engineering: End-to-end prototypes, FastAPI backends, data systems, user-facing workflows, and product metrics.
-Featured Projects
+
+
+
+
+
+
+
+🤖 LLMs, Transformers & Generative AI
+
+
+
+
+
+
+
+
+
+🔎 RAG, Hybrid Retrieval & Search Engineering
+
+
+
+
+
+
+
+
+
+
+
+🧠 Agentic AI & Orchestration
+
+
+
+
+
+
+🧪 AI Evaluation, Guardrails & Observability
+
+
+
+
+
+
+
+⚙️ Backend & Application Engineering
+
+
+
+
+
+
+
+
+🗄️ Databases, Search Infrastructure & Data Pipelines
+
+
+
+
+
+
+
+
+
+
+☁️ Cloud, DevOps & Infrastructure Engineering
+
+
+
+
+
+
+
+
+
+
+💻 Programming Languages & Engineering Tools
+
+
+
+
+
+<details>
+<summary><b>📈 Analytics, BI & Product Analytics — additional experience</b></summary>
+
+
+
+
+
+
+
+
+
+
+</details><details>
+<summary><b>🧭 Product Management & Delivery — additional experience</b></summary>
+
+
+Product Metrics · Requirements Analysis · Prioritization · Roadmapping · MVP Definition · Experimentation
+</details>🚀 Featured Projects
 🧠 Perceptra — Agentic RAG & Document Intelligence
-Focus: Applied AI · LLM Systems · Backend Engineering
-Status: Active development
 
-A document-intelligence application exploring how to make LLM answers more grounded, traceable, and useful.
-- Develops document ingestion, retrieval, and question-answering workflows with FastAPI and LangGraph.
-- Integrates Qdrant and Jina AI for embedding-based search and reranking.
-- Incorporates RAGAS, guardrails, and observability to investigate response quality and failure modes.
-- Connects engineering components to a Streamlit interface and Docker-based workflows.
-Tech: Python · FastAPI · LangGraph · Qdrant · Jina AI · RAGAS · PostgreSQL · Docker
-View repository
-🔎 ProductIQ / StyleIQ — AI Fashion Search & Recommendations
-Focus: Machine Learning · Information Retrieval · AI Product Engineering
-Status: In development
 
-An AI-powered product-discovery system built around a dataset of 367K+ fashion listings, designed to make natural-language shopping searches more relevant.
-- Combines semantic embeddings with BM25 lexical search for hybrid retrieval.
-- Uses Reciprocal Rank Fusion (RRF) to combine retrieval signals.
-- Explores metadata filters, ranking, and recommendation diversity for better discovery.
-- Connects search services to a FastAPI backend and Next.js interface.
-Tech: Python · Sentence Transformers · PostgreSQL · pgvector · BM25 · FastAPI · Next.js
-View repository
+An AI document intelligence system combining retrieval, LLM-based question answering, and agent orchestration.
+- Develops document ingestion, retrieval, and response workflows with LangGraph and FastAPI.
+- Integrates Qdrant vector search and Jina AI embeddings/reranking components.
+- Incorporates RAGAS, NeMo Guardrails, and observability tooling for quality analysis and debugging.
+- Connects backend workflows to Streamlit and Docker-based development; deployment work is ongoing.
+Stack: Python · FastAPI · LangGraph · Qdrant · Jina AI · RAGAS · PostgreSQL · Docker
+
+🔗 Explore Perceptra
+🔎 ProductIQ / StyleIQ — AI Fashion Search & Recommendation
+
+
+A natural-language fashion discovery project built around a dataset of 367K+ product listings.
+- Combines BGE semantic embeddings and BM25 lexical retrieval.
+- Uses Reciprocal Rank Fusion (RRF) to merge retrieval candidates.
+- Explores metadata filtering, ranking, and recommendation diversity.
+- Builds toward user-facing search with FastAPI and Next.js.
+Stack: Python · Sentence Transformers · PostgreSQL · pgvector · BM25 · FastAPI · Next.js
+
+🔗 Explore ProductIQ / StyleIQ
 🧪 Applied ML Experiments — Fine-Tuning, Retrieval & Inference
-Focus: ML Experimentation · Evaluation · Model Serving Trade-offs
 
-A set of hands-on experiments examining how model and system choices affect output quality and deployment requirements.
-- Runs LoRA-based supervised fine-tuning experiments with a controlled evaluation setup.
-- Studies retrieval quality and RAG pipeline choices through comparative experiments.
-- Documents precision, quantization, and serving trade-offs; deployment architecture is a proposal, not a production benchmark.
-Tech: Python · Hugging Face · PyTorch · LoRA · Retrieval Evaluation
-View repository
-🕸️ Research Paper Classification with Graph Neural Networks
-Focus: Deep Learning · Graph ML
+A collection of ML engineering assignments examining model adaptation, retrieval behavior, and inference trade-offs.
+- Explores LoRA supervised fine-tuning with baseline comparisons and controlled evaluation.
+- Compares retrieval approaches and RAG quality using experimental results.
+- Documents quantization and model-serving considerations; deployment designs are proposals rather than production benchmarks.
+Stack: Python · PyTorch · Hugging Face · LoRA · Evaluation
 
-A graph-based classification project where papers are nodes and citation links form edges.
-- Builds a Graph Convolutional Network (GCN) using PyTorch Geometric.
-- Covers graph preparation, model training, and evaluation.
-- Compares graph-based learning with conventional ML baselines.
-Tech: Python · PyTorch · PyTorch Geometric · scikit-learn
-View repository
-Technical Toolkit
-Area	Tools & methods
-Machine Learning	PyTorch, PyTorch Geometric, scikit-learn, Hugging Face Transformers, Pandas, NumPy
-LLM & Retrieval	RAG, embeddings, BM25, hybrid search, RRF, reranking, LangChain, LangGraph, LLM APIs
-Evaluation & Reliability	Model/retrieval evaluation, RAGAS, NeMo Guardrails, LangSmith, Logfire, Prometheus, Pytest
-Backend & Product	Python, FastAPI, Pydantic, REST APIs, Streamlit, Next.js
-Data & Infrastructure	SQL, PostgreSQL, pgvector, Qdrant, Redis, Neo4j, Docker, Linux, Git, AWS
+🔗 Explore ML experiments
+🕸️ Research Paper Classification Using Graph Neural Networks
 
+A graph-learning project using paper features and citation links to classify scientific papers.
+- Models papers as nodes and citation relationships as edges.
+- Implements a Graph Convolutional Network (GCN) using PyTorch Geometric.
+- Covers data preparation, model training, evaluation, and baseline comparisons.
+Stack: Python · PyTorch · PyTorch Geometric · scikit-learn
 
-<sub>Additional experience: Go, shell scripting, data pipelines, product analytics, and experimentation.</sub>
-Experience
+🔗 Explore GCN project
+💼 Professional Experience
 Software Engineering Intern — Asama AI
 December 2025 – June 2026
-- Contributed to infrastructure discovery and monitoring tooling across virtualized environments.
-- Worked on Prometheus exporters, metric collection, and troubleshooting workflows.
-- Built automation utilities with Python, Go, and shell scripting.
-- Used Neo4j/Cypher for infrastructure-topology modeling and worked with Linux, KVM, libvirt, and Docker.
-How I Think About AI Products
-Problem → Data → Baseline → Model / Retrieval → Evaluation → API → User Experience → Iteration
+- Contributed to infrastructure discovery and observability tooling.
+- Worked on Prometheus exporters, metrics collection, and monitoring workflows.
+- Developed automation and troubleshooting utilities using Python, Go, and shell scripting.
+- Modeled and queried infrastructure topology using Neo4j and Cypher.
+- Debugged infrastructure components across Linux, KVM, libvirt, and Docker environments.
+🎯 Current Technical Focus
+Area	What I'm working toward
+🧠 ML Engineering	Better experimental design, training, evaluation, and model adaptation
+🤖 LLM & RAG Systems	Retrieval quality, reranking, grounded responses, and agent workflows
+🧪 AI Reliability	Evals, tracing, guardrails, testing, and failure analysis
+⚙️ AI Product Engineering	End-to-end APIs, useful interfaces, deployment, and product feedback loops
 
-My goal is to pair model-level understanding with engineering discipline and product judgment: choose the simplest useful approach, measure its behavior, and make it usable by real people.
 
-Currently strengthening: ML engineering fundamentals, LLM evaluation, agent reliability, deployment, and end-to-end AI product delivery.
+🎓 Education
+National Institute of Technology, Agartala
+B.Tech in Chemical Engineering · CGPA: 8.09/10
+🤝 Let's Connect
+<p align="center">
+  <a href="https://sunnyspacez.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Sunny914">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/sunnykumar914">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:sunnyspace808@gmail.com">Email</a>
+</p><p align="center"><b>Build · Evaluate · Ship · Learn</b></p>
 Education
 National Institute of Technology, Agartala
 B.Tech, Chemical Engineering · CGPA: 8.09/10
