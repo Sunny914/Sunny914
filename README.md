@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sunny-ai-portfolio-beta.vercel.app/">Portfolio</a> •
+  <a href="https://sunnyspacez.vercel.app/">Portfolio</a> •
   <a href="https://github.com/Sunny914">GitHub</a> •
   <a href="https://linkedin.com/in/sunnykumar914">LinkedIn</a> •
   <a href="mailto:sunnyspace808@gmail.com">Email</a>
@@ -247,7 +247,7 @@ B.Tech in Chemical Engineering · CGPA: **8.09/10**
 ## Connect
 
 <p align="center">
-  <a href="https://sunny-ai-portfolio-beta.vercel.app/">Portfolio</a> •
+  <a href="https://sunnyspacez.vercel.app/">Portfolio</a> •
   <a href="https://github.com/Sunny914">GitHub</a> •
   <a href="https://linkedin.com/in/sunnykumar914">LinkedIn</a> •
   <a href="mailto:sunnyspace808@gmail.com">Email</a> •
